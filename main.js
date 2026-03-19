@@ -22,7 +22,7 @@ function shareWish() {
 
     let message = `✨ Happy Ugadi ✨\n\n` +
     `A new year, a fresh beginning 🌅  \n\n` +
-    `My resolution this year:\n ${resolution}\n\n` +
+    `My resolution this year:\n${resolution}\n\n` +
     `May this Ugadi bring happiness, growth, and new opportunities into your life ✨ \n\n`  +
     `Wish your loved ones from here 👇\n` +
     `https://srikanth9x.github.io/ugadi`;
