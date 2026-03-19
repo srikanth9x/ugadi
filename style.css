@@ -66,6 +66,7 @@ input {
   padding: 0.125rem 1rem;
   border-radius: 0.5rem;
   border: none;
+  font-family: inherit;
 }
 
 p {
